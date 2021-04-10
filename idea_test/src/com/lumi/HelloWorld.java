@@ -23,7 +23,7 @@ public class HelloWorld {
         }
 
         System.out.println("好无聊");
-        System.out.println("你无聊吗？");
+        System.out.println("你无聊吗~？");
 
     }
 
