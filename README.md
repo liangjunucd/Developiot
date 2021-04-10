@@ -2,7 +2,7 @@
 
 学习Push/pull
 
-花了时间感觉很不错！
+花了时间感觉很不错！~~~
 
 ## 1. Upload the file and unzip it
 
