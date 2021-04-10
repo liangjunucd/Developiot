@@ -8,7 +8,6 @@
 
 tar -axvf generator-\$\{tar_package_name\}.tar.gz
 
-
 ## 2. updata config
 
 cd generator/config/
